@@ -6,7 +6,7 @@ categories:
 description:
 image: http://i.imgur.com/8OXoYxw.png
 image-sm: http://i.imgur.com/8OXoYxw.png
-image-home: https://images.unsplash.com/photo-1472341581053-2af63cb175d4?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&s=8ddab9b3ae5407027aa2da624f71282c
+image-home: http://imgur.com/ROMrmxi
 ---
 **Miami Blocks** was created as my first project for General Assembly's Web Development Course in London. It was built using HTML5, CSS3 and JavaScript/JQuery.
 
