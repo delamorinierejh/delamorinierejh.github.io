@@ -66,16 +66,3 @@ If at any point during the date planning process, the user want to run a new sea
 **API:**
 
 I researched which APIs would best suit the app and quickly came to the conclusion that for restaurants Zomato had the best data. It was more of a struggle to find solid data for bars, with the result that there was going to be a significant gap in the amount of data available for restaurants and bars. Ultimately I decided to use both the Zomato and Google Places API and came to the decision that it would be best to serve data to the site to come from my own API. This would allow me to have more uniform data between my bars and restaurants, ultimately making the code in the front end more legible and neat.
-
-**Technology used**:
-
-* HTML5
-* SCSS
-* jQuery
-* Node.js
-* Express.js
-* Gulp
-* Bower
-* GoogleMaps API
-* Google Places API
-* Zomato API
