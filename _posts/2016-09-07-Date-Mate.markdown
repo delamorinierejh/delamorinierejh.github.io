@@ -10,6 +10,8 @@ image-home: https://images.unsplash.com/photo-1470762920880-a8e058686707?ixlib=r
 ---
 This application was produced as my second project for the Web Development Immersive course at General Assembly London.
 
+The app can be seen here: <a href="https://date-mate-london.herokuapp.com/" target="_blank">**Date Mate London**</a>
+
 The idea for the app came as a result of my inability to find a quick, fun and efficient way for finding new places to take my girlfriend for dates. I'd find myself writing a lot of different Google searches and reading lots of different articles trying to find a good spot.
 
 My initial aim was to build a practical was to browse all the best data in one simple and fun app. It also seemed a good idea to suggest that the venues all be grouped in similar areas so as to make travel between the different pitstops in the date as straightforward as possible - (Nobody wants to go for a cocktail in Hackney before dinner in Peckham)
