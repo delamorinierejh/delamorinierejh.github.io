@@ -26,4 +26,4 @@ The site was built using a PostgreSQL database on a Ruby on the Rails Backend, w
 
 <br/>
 
-Read more about BidUp! on [GitHub:](https://github.com/delamorinierejh/wdi-project-4-frontend)
+Read more about BidUp on [GitHub](https://github.com/delamorinierejh/wdi-project-4-frontend)
