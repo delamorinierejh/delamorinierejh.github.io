@@ -4,8 +4,8 @@ title: "SWISHList"
 date: 2016-09-07
 categories:
 description:
-image: http://imgur.com/yru3arx.png
-image-sm: http://imgur.com/yru3arx.png
+image: http://imgur.com/bi6DIY7.png
+image-sm: http://imgur.com/bi6DIY7.png
 image-home: https://images.unsplash.com/photo-1470762920880-a8e058686707?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&s=7ad04dcd45407f39e32f62424b192b86
 ---
 
