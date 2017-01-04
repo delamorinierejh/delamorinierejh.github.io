@@ -20,3 +20,5 @@ It is an app for people who are keen to either travel or move abroad, allowing u
 It was built using the Ionic framework.
 
 ![alt text](http://imgur.com/FLAgCtM.png "Browsing 2 - with information")
+
+See more on [GitHub](https://github.com/delamorinierejh/Later-Gator)
