@@ -1,10 +1,10 @@
 /**
- * Tabs
- * On the Blog page for posts and categories
- */
- ::-webkit-scrollbar {
-     display: none;
- }
+* Tabs
+* On the Blog page for posts and categories
+*/
+::-webkit-scrollbar {
+  display: none;
+}
 
 .about-me {
   // text-align: justify;
@@ -19,16 +19,18 @@
   }
   img {
     margin: 0 auto;
-    max-height: 200px;
+    max-height: 240px;
     width: auto;
     float: left;
     margin-right: 10px;
     @media (max-width: $mq-md) {
-      width: 100%;
-      max-height: 100%;
-      height: auto;
-      float: none;
-      margin-bottom: 10px;
+      img {
+        display: block;
+        max-width:230px;
+        max-height:95px;
+        width: auto;
+        height: auto;
+      }
     }
   }
 
@@ -76,9 +78,9 @@
 }
 
 /**
- * Blog Post Preview
- * On the Blog page
- */
+* Blog Post Preview
+* On the Blog page
+*/
 .previews {
 
   &__container {
@@ -156,9 +158,9 @@
 }
 
 /**
- * Category Card
- * On the blog page under category tab
- */
+* Category Card
+* On the blog page under category tab
+*/
 .cards {
   @include flex-grid(1, 2, $xxl: 3, $pad: 0.25em);
 
@@ -241,9 +243,9 @@
 }
 
 /**
- * Pagination
- * On the Blog page when enough posts to paginate
- */
+* Pagination
+* On the Blog page when enough posts to paginate
+*/
 .pagination {
   @extend %letter-spacing;
 
@@ -269,8 +271,8 @@
 }
 
 /**
- * Footer
- */
+* Footer
+*/
 .footer {
   float: right;
   display: flex;
@@ -305,9 +307,9 @@
 }
 
 /**
- * Mast
- * On the Post page for the header section
- */
+* Mast
+* On the Post page for the header section
+*/
 .mast {
   position: relative;
 
@@ -339,8 +341,8 @@
 }
 
 /**
- * Navigation
- */
+* Navigation
+*/
 .nav {
   @extend %letter-spacing;
 
@@ -395,8 +397,8 @@
 }
 
 /**
- * Post
- */
+* Post
+*/
 .post {
   width: 90%;
   max-width: $mq-md;
@@ -435,8 +437,8 @@
 }
 
 /**
- * Profile Card
- */
+* Profile Card
+*/
 .profile {
   width: 90%;
   max-width: $mq-md;
@@ -500,9 +502,9 @@
 }
 
 /**
- * Next Post
- * On the Post page for single post pagination
- */
+* Next Post
+* On the Post page for single post pagination
+*/
 .next {
   background-color: $color-black;
 
@@ -547,9 +549,9 @@
 }
 
 /**
- * Archives Page
- * Should be layout, but more elements added
- */
+* Archives Page
+* Should be layout, but more elements added
+*/
 .archives {
 
   &__header {
